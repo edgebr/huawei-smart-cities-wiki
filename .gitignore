@@ -1,0 +1,8 @@
+.env
+.venv
+*.weights
+*.pth
+*.pyc
+results
+data
+*.log
